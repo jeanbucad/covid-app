@@ -8,3 +8,7 @@ API used: <a href="https://documenter.getpostman.com/view/10808728/SzS8rjbc?vers
 
 <h3>Setup Dependencies</h3>
 <code>covid-app > npm install</code>
+
+<h3>User Interface</h3>
+
+![UI](https://github.com/jeanbucad/covid-app/blob/main/UI.jpg)
